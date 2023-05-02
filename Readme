@@ -1,1 +1,6 @@
 
+1)Unzip both the rar file in same folder 
+2)go to ebpfRestAPI folder 
+3)go run main.go
+4)Using curl of Postman call Post to send json data 
+
