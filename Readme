@@ -3,4 +3,9 @@
 2)go to ebpfRestAPI folder 
 3)go run main.go
 4)Using curl of Postman call Post to send json data 
+sample json data 
+{
+    "Ip": "192.168.1.2",
+    "Port": "200"
+}
 
